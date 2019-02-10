@@ -1,4 +1,0 @@
-var i,a=0
-for(var i=;i<=128;i++)
-if(i==128) 
-{document.write(a)}
